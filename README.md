@@ -17,12 +17,12 @@ Projeto desenvolvido para mapear as profissões e trajetórias familiares ao lon
 
 | Geração | Nome | Parentesco | Profissão | Atividade Principal |
 | :--- | :--- | :--- | :--- | :--- |
-| **Avós** | Antônio | Avô materno | Carpinteiro | Fabrica e restaura móveis de madeira sob medida. |
-| **Avós** | Helena | Avó materna | Costureira | Confecciona roupas e faz ajustes de alfaiataria. |
-| **Avós** | Roberto | Avô paterno | Motorista | Transporta cargas e mercadorias entre cidades. |
-| **Avós** | Lúcia | Avó paterna | Professora | Alfabetiza crianças e planeja aulas no ensino fundamental. |
-| **Pais** | Camila | Mãe | Enfermeira | Cuida de pacientes, aplica medicamentos e auxilia médicos. |
-| **Pais** | Marcos | Pai | Eletricista | Faz instalações e manutenções elétricas residenciais. |
+| **Avós** | José | Avô materno | Dono de mercearia | Atendia clientes e gerenciava as vendas e o estoque do comércio. |
+| **Avós** | Maria Aparecida | Avó materna | Dona de casa | Cuidava do lar, da organização e do bem-estar da família. |
+| **Avós** | Atair | Avô paterno | Dono de mercearia | Administrava o comércio local e atendia os moradores do bairro. |
+| **Avós** | Maria Aparecida | Avó paterna | Cabeleireira | Realizava cortes, penteados e cuidados capilares para clientes. |
+| **Pais** | Mirela | Mãe | Dona de casa | Organiza a rotina do lar e apoia o desenvolvimento da família. |
+| **Pais** | Cesar | Pai | Engenheiro civil | Projeta, planeja e acompanha obras e construções estruturais. |
 | **Estudante** | **Augusto** | **Estudante** | **Estudante** | **Dedica-se aos estudos e explora áreas para o futuro profissional.** |
 
 ---
